@@ -1,2 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsedTempy&show_icons=true&theme=transparent&title_color=3f4c6b&text_color=606c88&icon_color=E6DADA)
-![Top Langs](https://github-readme-stats-amber-five-16.vercel.app/api/top-langs/?username=UsedTempy&show_icons=true&theme=transparent&title_color=3f4c6b&text_color=606c88&icon_color=E6DADA)
+
