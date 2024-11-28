@@ -27,3 +27,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-f38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Linux Badge](https://img.shields.io/badge/Linux-be9009?style=flat&logo=linux&logoColor=white)](https://wikipedia.org/wiki/Linux)
+
+### Social Media
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/UsedTempy)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/usedtemplate)
