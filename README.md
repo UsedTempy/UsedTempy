@@ -12,6 +12,8 @@
 [![Next.js Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![HTML Badge](https://img.shields.io/badge/HTML_5-e34f26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
 ### Backend technologies
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
