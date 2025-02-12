@@ -10,19 +10,22 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ### Web-stack
-[![React.js badge](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![HTML Badge](https://img.shields.io/badge/HTML_5-e34f26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-### Backend technologies
+### Backend/Framework technologies
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 
 ### Databases
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 ### General
 [![Git Badge](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
